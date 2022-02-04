@@ -1,3 +1,13 @@
 body{
     background: #BDBDBD;
 }
+.fondo-bg{
+    background-image: url(/website/assets/img/bg.jpg);
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+
+.bg-white{
+    background-color: white;
+}
